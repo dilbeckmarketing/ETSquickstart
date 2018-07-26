@@ -74,7 +74,7 @@
           "title": "Dilbeck CRM &amp; Website<br>Quick Start Guide",
           "title1": "<a href=\"https://help.bostonlogic.com/support/home\" target=\"_blank\" class=\"text-white\">Boston Logic Support</a>",
           "title2": "<a href=\"page1.html\" class=\"text-white\">Homepage Photos</a>",
-          "title3": "<a href=\"page2.html\">Social Media Posts</a>",
+          "title3": "<a href=\"page2.html\" class=\"text-white\">Social Media Posts</a>",
           "title4": "<a href=\"https://medium.com/dilbeckinsights\" target=\"_blank\" class=\"text-white\">Blog Posts</a>",
           "text": "Get started customizing your site, making the most of your Dilbeck CRM, and get a handle on all the digital tools of a Dilbeck agent.",
           "buttons": "<a data-app-btn=\"true\" href=\"#\" class=\"btn mbr-title-font btn-lg btn-primary\">Purchase Now <i class=\"fa fa-shopping-basket\"></i></a>",
