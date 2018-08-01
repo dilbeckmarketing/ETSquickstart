@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CRM Quick Start Guide",
-    "currentPage": "index.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "unicore",
       "title": "Unicore",
@@ -26,7 +26,9 @@
     "siteUrl": "undefined",
     "versionFirst": "4.6.7",
     "uniqCompNum": 96,
-    "versionPublish": "4.6.7"
+    "versionPublish": "4.6.7",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -1216,7 +1218,7 @@
               "loop": false
             }
           },
-          "title1": "Beginners Guide to Facebook<br><br>",
+          "title1": "Guide to Facebook Marketing<br><br>",
           "info1": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
           "text1": "<p>If you’re new to Facebook business options or want to add something new to your current Facebook marketing plan, this page is for you.</p><p>Here, you’ll find articles and resources to help beginner, intermediate, and advanced marketers use Facebook pages, profiles, groups, ads, Live video, analysis, contests, and more for business.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\"></a><a href=\"https://www.socialmediaexaminer.com/facebook-for-business-ultimate-facebook-marketing-guide/\" target=\"_blank\">View Guide&nbsp;</a><i class=\"fa fa-angle-right\"></i>",
           "media2": {
@@ -1237,7 +1239,7 @@
               "loop": false
             }
           },
-          "title2": "Beginners Guide to Instagram<br><br>",
+          "title2": "Guide to Instagram Marketing<br><br>",
           "info2": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
           "text2": "<p>How to promote your business on Instagram?</p><p>How can you stand out among the other millions photos, videos and stories posted each day? How can non-designers and amateur photographers create beautiful content for Instagram?</p><p>These are all questions we’d love to help you answer in this guide.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\"></a><a href=\"https://buffer.com/instagram-marketing\" target=\"_blank\">View Guide&nbsp;</a><i class=\"fa fa-angle-right\"></i>",
           "media3": {
@@ -1258,7 +1260,7 @@
               "loop": false
             }
           },
-          "title3": "Beginners Guide to Twitter<br><br>",
+          "title3": "Guide to Twitter Marketing<br><br>",
           "info3": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
           "text3": "<p>Whatever your goals, there’s no question Twitter can be a powerful tool to help you achieve them.</p><p>If you’re just starting out with Twitter, this guide will show you how to craft a winning strategy. If you’re already using the platform to grow your business, jump to our section on smart Twitter tips for business.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\"></a><a href=\"https://blog.hootsuite.com/twitter-marketing/\" target=\"_blank\">View Guide&nbsp;</a><i class=\"fa fa-angle-right\"></i>",
           "media4": {
