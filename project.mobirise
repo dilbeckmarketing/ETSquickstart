@@ -25,7 +25,7 @@
     "noImageResize": "",
     "siteUrl": "undefined",
     "versionFirst": "4.6.7",
-    "uniqCompNum": 112,
+    "uniqCompNum": 113,
     "versionPublish": "4.6.7",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -6140,6 +6140,36 @@
           ],
           "_name": "msg-box10",
           "_anchor": "msg-box10-2r"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "bgImageRadio": false,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "@primaryColor",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "title": "<a href=\"https://www.car.org/-/media/CAR/Documents/Industry-360/PDF/1056171/Quick-Guides/Quick-Guide--2018-Advertising-Rules-1025.pdf?la=en&amp;hash=CA5B921FE8F6C5EC80DAC3D0A7CF850D50E4D16C\" target=\"_blank\" class=\"text-white\">CAR Rules for social media posting</a>",
+          "text": "In 2018, CAR enacted a few agent social media license requirements. Learn more!",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn mbr-title-font cta-btn btn-default\" href=\"https://www.car.org/-/media/CAR/Documents/Industry-360/PDF/1056171/Quick-Guides/Quick-Guide--2018-Advertising-Rules-1025.pdf?la=en&amp;hash=CA5B921FE8F6C5EC80DAC3D0A7CF850D50E4D16C\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Posting rules&nbsp;</a>",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box9",
+          "_anchor": "msg-box9-34"
         }
       ]
     }
