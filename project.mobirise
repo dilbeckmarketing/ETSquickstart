@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CRM Quick Start Guide",
-    "currentPage": "page14.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "unicore",
       "title": "Unicore",
@@ -703,9 +703,9 @@
             "overlayColor": "#151515",
             "overlayOpacity": 0.5
           },
-          "title": "Want Different Images of video...free?",
+          "title": "<a href=\"page14.html\" class=\"text-white\">Want Different Images oR video...free?</a>",
           "text": "Discover some of the best free stock photo and video sites around!",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn mbr-title-font cta-btn btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Peruse stock sites</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn mbr-title-font cta-btn btn-default\" href=\"page14.html\" data-toolbar=\"-mbrBtnMove\">Peruse stock sites</a>",
           "alias": "unicore/components",
           "_tags": [
             "Theme"
@@ -1034,9 +1034,9 @@
             "overlayColor": "#151515",
             "overlayOpacity": 0.5
           },
-          "title": "NEED SOCIAL MEDIA CONTENT?",
+          "title": "<a href=\"page15.html\" class=\"text-white\">NEED SOCIAL MEDIA CONTENT?</a>",
           "text": "Discover some of the best local and national sites to find real estate and lifestyle content.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn mbr-title-font cta-btn btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Peruse Content&nbsp;</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn mbr-title-font cta-btn btn-default\" href=\"page15.html\" data-toolbar=\"-mbrBtnMove\">Peruse Content&nbsp;</a>",
           "alias": "unicore/components",
           "_tags": [
             "Theme"
@@ -5528,7 +5528,7 @@
               "loop": false
             }
           },
-          "title4": "<a href=\"https://deathtothestockphoto.com/\" target=\"_blank\">Death to Stock</a>&nbsp;Photo",
+          "title4": "<a href=\"https://deathtothestockphoto.com/\" target=\"_blank\">Death to Stock&nbsp;Photo</a>",
           "info4": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
           "text4": "",
           "alias": "unicore/components",
@@ -5691,7 +5691,7 @@
               "loop": false
             }
           },
-          "title2": "Pixabay",
+          "title2": "<a href=\"https://pixabay.com/\" target=\"_blank\">Pixabay</a>",
           "info2": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
           "text2": "",
           "media3": {
@@ -5709,9 +5709,9 @@
               "loop": false
             }
           },
-          "title3": "Videvo",
+          "title3": "<a href=\"https://www.videvo.net/\" target=\"_blank\">Videvo</a>",
           "info3": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
-          "text3": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\">Visit Site&nbsp;<i class=\"fa fa-angle-right\"></i></a>",
+          "text3": "",
           "media4": {
             "image": {
               "active": true,
