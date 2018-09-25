@@ -25,7 +25,7 @@
     "noImageResize": "",
     "siteUrl": "undefined",
     "versionFirst": "4.6.7",
-    "uniqCompNum": 142,
+    "uniqCompNum": 143,
     "versionPublish": "4.8.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -6676,6 +6676,10 @@
         },
         {
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showMedia": true,
             "bgImageRadio": false,
             "paddingTop": 2,
             "paddingBottom": 2,
@@ -6691,84 +6695,31 @@
             "overlayColor": "#151515",
             "overlayOpacity": 0.5
           },
-          "media1": {
+          "headerAlign": "left",
+          "media": {
             "image": {
-              "class": "mbr-figure__img img-responsive post-thumb",
+              "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/1.jpg"
+              "src": "images/iphone.png"
             },
             "video": {
+              "active": true,
               "src": "https://youtu.be/X0fBI9zkV3Q",
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
               "autoplay": false,
-              "loop": false,
-              "active": true
-            }
-          },
-          "title1": "Bakery egg foods around the world",
-          "info1": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
-          "text1": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
-          "media2": {
-            "image": {
-              "active": true,
-              "class": "mbr-figure__img img-responsive post-thumb",
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/2.jpg"
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
               "loop": false
             }
           },
-          "title2": "Bakery egg foods around the world",
-          "info2": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
-          "text2": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
-          "media3": {
-            "image": {
-              "active": true,
-              "class": "mbr-figure__img img-responsive post-thumb",
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/3.jpg"
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "title3": "Bakery egg foods around the world",
-          "info3": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
-          "text3": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
-          "media4": {
-            "image": {
-              "active": true,
-              "class": "mbr-figure__img img-responsive post-thumb",
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/4.jpg"
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "title4": "Bakery egg foods around the world",
-          "info4": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
-          "text4": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
+          "title": "How to add designations to agent profile pages",
+          "text": "Learn how to add Designations to Agent Profile pages with our \"Agent Highlight\" feature. Detail instructions also below.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn mbr-title-font btn-primary\" data-toolbar=\"-mbrBtnMove\" href=\"https://youtu.be/X0fBI9zkV3Q\" target=\"_blank\">WATCh video</a>",
           "alias": "unicore/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box21",
-          "_anchor": "msg-box21-3x"
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-3y"
         },
         {
           "_params": {
@@ -6804,7 +6755,7 @@
           },
           "title1": "Bakery egg foods around the world",
           "info1": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
-          "text1": "<font color=\"#555555\" face=\"Raleway, sans-serif\">The Designation is added to the “Agent Highlights” section of their profile in the CRM. Entering&nbsp;</font><span style=\"background-color: inherit; color: rgb(85, 85, 85); font-family: Raleway, sans-serif;\">HTML code is required to have the heading and text match the other titles, texts, and features on the page.</span><div><font color=\"#555555\" face=\"Raleway, sans-serif\"><br></font></div><div><font color=\"#555555\" face=\"Raleway, sans-serif\"><b>Here is the Designation Code you need to enter:</b></font></div><div><font color=\"#555555\" face=\"Raleway, sans-serif\"><b><br></b></font></div><div><font color=\"#555555\" face=\"Raleway, sans-serif\">&lt;div id=\"team_offices\"&gt;</font></div><div><font color=\"#555555\" face=\"Raleway, sans-serif\">&lt;div class=\"body-semi-title\"&gt;Designations&lt;/div&gt;</font></div><div><font color=\"#555555\" face=\"Raleway, sans-serif\">&lt;div class=\"smidge\"&gt;&amp;nbsp;&lt;/div&gt;</font></div><div><font color=\"#555555\" face=\"Raleway, sans-serif\">&lt;p&gt;MVSC&lt;/p&gt;</font></div><div><font color=\"#555555\" face=\"Raleway, sans-serif\">&lt;/div&gt;</font></div><div><font color=\"#555555\" face=\"Raleway, sans-serif\"><br></font></div><div><font color=\"#555555\" face=\"Raleway, sans-serif\"><b>Here's how to enter it:</b></font></div><div><font color=\"#555555\" face=\"Raleway, sans-serif\"><b><br></b></font></div><div><font color=\"#555555\" face=\"Raleway, sans-serif\">Navigate to the agent profile in an agent CRM by clicking on their headshot in the top right corner. Select <b>“My Profile”</b></font></div><div><font color=\"#555555\" face=\"Raleway, sans-serif\">￼</font></div>",
+          "text1": "<p><font color=\"#555555\" face=\"Raleway, sans-serif\"><br></font></p><p><font color=\"#555555\" face=\"Raleway, sans-serif\">The Designation is added to the “Agent Highlights” section of their profile in the CRM. Entering&nbsp;</font><span style=\"background-color: inherit; color: rgb(85, 85, 85); font-family: Raleway, sans-serif;\">HTML code is required to have the heading and text match the other titles, texts, and features on the page.</span><div><font color=\"#555555\" face=\"Raleway, sans-serif\"><br></font></div><div><font color=\"#555555\" face=\"Raleway, sans-serif\"><b>Here is the Designation Code you need to enter:</b></font></div><div><font color=\"#555555\" face=\"Raleway, sans-serif\"><b><br></b></font></div><div><font color=\"#555555\" face=\"Raleway, sans-serif\">&lt;div id=\"team_offices\"&gt;</font></div><div><font color=\"#555555\" face=\"Raleway, sans-serif\">&lt;div class=\"body-semi-title\"&gt;Designations&lt;/div&gt;</font></div><div><font color=\"#555555\" face=\"Raleway, sans-serif\">&lt;div class=\"smidge\"&gt;&amp;nbsp;&lt;/div&gt;</font></div><div><font color=\"#555555\" face=\"Raleway, sans-serif\">&lt;p&gt;MVSC&lt;/p&gt;</font></div><div><font color=\"#555555\" face=\"Raleway, sans-serif\">&lt;/div&gt;</font></div><div><font color=\"#555555\" face=\"Raleway, sans-serif\"><br></font></div><div><font color=\"#555555\" face=\"Raleway, sans-serif\"><b>Here's how to enter it:</b></font></div><div><font color=\"#555555\" face=\"Raleway, sans-serif\"><b><br></b></font></div><div><font color=\"#555555\" face=\"Raleway, sans-serif\">Navigate to the agent profile in an agent CRM by clicking on their headshot in the top right corner. Select <b>“My Profile”</b></font></div><div><font color=\"#555555\" face=\"Raleway, sans-serif\">￼</font></div></p>",
           "media2": {
             "image": {
               "active": true,
