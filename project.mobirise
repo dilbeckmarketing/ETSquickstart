@@ -6801,7 +6801,7 @@
           "_params": {
             "bgImageRadio": false,
             "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingBottom": "1",
             "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "parallax": false,
             "bgColorRadio": true,
@@ -6996,7 +6996,7 @@
           "_params": {
             "bgImageRadio": false,
             "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingBottom": "1",
             "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "parallax": false,
             "bgColorRadio": true,
@@ -7125,7 +7125,7 @@
           },
           "title1": "Bakery egg foods around the world",
           "info1": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
-          "text1": "<p><br>Scroll down to <b>“Agent Highlights”</b></p><p>Click on <b>“Source”</b></p><p>In the text box, paste provided <b>Designation Code</b></p><p>Then click <b>“Update Agent”</b></p>",
+          "text1": "<p>Scroll down to <b>“Agent Highlights”</b></p><p>Click on <b>“Source”</b></p><p>In the text box, paste provided <b>Designation Code</b></p><p>Then click <b>“Update Agent”</b></p>",
           "media2": {
             "image": {
               "active": true,
@@ -7191,7 +7191,7 @@
           "_params": {
             "bgImageRadio": false,
             "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingBottom": "1",
             "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "parallax": false,
             "bgColorRadio": true,
