@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CRM Quick Start Guide",
-    "currentPage": "index.html",
+    "currentPage": "page17.html",
     "theme": {
       "name": "unicore",
       "title": "Unicore",
@@ -6578,33 +6578,6 @@
       "components": [
         {
           "_params": {
-            "showText": true,
-            "bgColor": "#252525"
-          },
-          "media": {
-            "image": {
-              "src": "images/slide3.jpg",
-              "class": "mbr-figure__img",
-              "width": 1400
-            },
-            "video": {
-              "active": true,
-              "class": "mbr-figure__img",
-              "src": "https://youtu.be/QvfbfV3tNU0",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "text": "How to Add Designations to Agent Profile Pages",
-          "alias": "unicore/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "video1",
-          "_anchor": "video1-3m"
-        },
-        {
-          "_params": {
             "showTitle": true,
             "showInfo": false,
             "paddingTop": "3",
@@ -6700,6 +6673,33 @@
           ],
           "_name": "msg-box22",
           "_anchor": "msg-box22-3n"
+        },
+        {
+          "_params": {
+            "showText": true,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://youtu.be/QvfbfV3tNU0",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "How to Add Designations to Agent Profile Pages",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-3m"
         },
         {
           "_params": {
