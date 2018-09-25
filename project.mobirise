@@ -460,7 +460,7 @@
             "overlayOpacity": 0.75
           },
           "title": "add designations to your agent profile page",
-          "text": "Learn how to add designations to your agent profile&nbsp;<a href=\"page17.html\">here</a>.",
+          "text": "<a href=\"page17.html\">Learn how to add designations to your agent profile here</a>&nbsp;&gt;&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn mbr-title-font cta-btn btn-default\" href=\"https://mobirise.com\">Purchase now</a>",
           "alias": "unicore/components",
           "_tags": [
@@ -6698,7 +6698,7 @@
               "src": "@PROJECT_PATH@/assets/images/1.jpg"
             },
             "video": {
-              "src": "https://youtu.be/QvfbfV3tNU0",
+              "src": "https://youtu.be/X0fBI9zkV3Q",
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
               "autoplay": false,
@@ -6888,7 +6888,7 @@
               "active": true,
               "class": "mbr-figure__img img-responsive post-thumb",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2018-09-25-at-1.47.10-pm-1400x684.png",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2018-09-25-at-2.42.09-pm-1400x731.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -7083,7 +7083,7 @@
               "active": true,
               "class": "mbr-figure__img img-responsive post-thumb",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2018-09-25-at-1.47.27-pm-1400x690.png",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2018-09-25-at-2.42.22-pm-1400x735.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -7278,7 +7278,7 @@
               "active": true,
               "class": "mbr-figure__img img-responsive post-thumb",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2018-09-25-at-1.47.57-pm-1400x691.png",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2018-09-25-at-2.42.50-pm-1400x732.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -7473,7 +7473,7 @@
               "active": true,
               "class": "mbr-figure__img img-responsive post-thumb",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2018-09-25-at-1.45.53-pm-1400x773.png",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2018-09-25-at-2.43.17-pm-1400x1093.png",
               "link": "",
               "alt": "",
               "title": ""
