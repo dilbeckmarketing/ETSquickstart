@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CRM Quick Start Guide",
-    "currentPage": "page2.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "unicore",
       "title": "Unicore",
@@ -25,7 +25,7 @@
     "noImageResize": "",
     "siteUrl": "undefined",
     "versionFirst": "4.6.7",
-    "uniqCompNum": 154,
+    "uniqCompNum": 156,
     "versionPublish": "4.8.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -766,13 +766,13 @@
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "bgImageRadio": false,
             "paddingTop": 2,
             "paddingBottom": 2,
+            "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "parallax": false,
             "bgColorRadio": true,
-            "bgColor": "@primaryColor",
+            "bgColor": "#222",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -781,15 +781,15 @@
             "overlayColor": "#151515",
             "overlayOpacity": 0.5
           },
-          "title": "<a href=\"page14.html\" class=\"text-white\">Want Different Images oR video...free?</a>",
+          "title": "<a href=\"page14.html\" class=\"text-white\">WANT DIFFERENT IMAGES OR VIDEO...FREE?</a>",
           "text": "Discover some of the best free stock photo and video sites around!",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn mbr-title-font cta-btn btn-default\" href=\"page14.html\" data-toolbar=\"-mbrBtnMove\">Peruse stock sites</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn mbr-title-font cta-btn btn-default\" href=\"page14.html\" data-toolbar=\"-mbrBtnMove\">PEruse stock sites</a>",
           "alias": "unicore/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box9",
-          "_anchor": "msg-box9-2q"
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-4b"
         }
       ]
     },
@@ -1097,13 +1097,13 @@
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "bgImageRadio": false,
             "paddingTop": 2,
             "paddingBottom": 2,
+            "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "parallax": false,
             "bgColorRadio": true,
-            "bgColor": "@primaryColor",
+            "bgColor": "#222",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1113,14 +1113,14 @@
             "overlayOpacity": 0.5
           },
           "title": "<a href=\"page15.html\" class=\"text-white\">NEED SOCIAL MEDIA CONTENT?</a>",
-          "text": "Discover some of the best local and national sites to find real estate and lifestyle content.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn mbr-title-font cta-btn btn-default\" href=\"page15.html\" data-toolbar=\"-mbrBtnMove\">Peruse Content&nbsp;</a>",
+          "text": "Discover some of the best local and national sites to find real estate and lifestyle content.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn mbr-title-font cta-btn btn-default\" href=\"page15.html\" data-toolbar=\"-mbrBtnMove\">Peruse content</a>",
           "alias": "unicore/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box9",
-          "_anchor": "msg-box9-2p"
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-4a"
         },
         {
           "_params": {
